@@ -11,5 +11,8 @@ margin: 10px;  padding: 0px;}
 body {
     background-color: var(--cor-de-fundo);
 }
-
+.cor-de-texto{
+    color: white;
+   margin: 10px; padding:0;
+}
 
